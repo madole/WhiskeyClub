@@ -8,5 +8,6 @@
 |Friday 27th March 2015 | Chris Turner    | Jameson Reserve 18 Year                       |
 |Friday 10th April 2015 | Kartik Lad      | Bruichladdich Islay Barley Scotch             |
 |Friday 17th April 2015 | Liam Dixon      |                                               |
-|Friday 24th April 2015 | Barney Bishop   |                                               |
-|Friday 1st May 2015    | Kunaal          |                                               |
+|Friday 24th April 2015 | Barney Bishop   |                                               |    
+|Friday 1st May 2015    | Kunaal          |                                               |   
+|Friday 8st May 2015    | Christian Rich  |                                               |      
