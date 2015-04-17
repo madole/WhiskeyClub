@@ -10,4 +10,4 @@
 |Friday 17th April 2015 | Liam Dixon      |                                               |
 |Friday 24th April 2015 | Barney Bishop   |                                               |    
 |Friday 1st May 2015    | Kunaal          |                                               |   
-|Friday 8st May 2015    | Christian Rich  |                                               |      
+|Friday 8th May 2015    | Christian Rich  |                                               |      
