@@ -13,3 +13,4 @@
 |Friday 8th May 2015    | Paul Noble        |                                               |  
 |Friday 15th May 2015   | Peter Uy          |                                               | 
 |Friday 22nd May 2015   | Barney Bishop     |                                               | 
+|Friday 29nd May 2015   | Cyril George      |                                               | 
