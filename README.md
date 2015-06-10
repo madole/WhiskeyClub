@@ -14,3 +14,4 @@
 |Friday 22nd May 2015   | Peter Uy          | Yamazaki 12 Year Old                          | 
 |Friday 29th May 2015   | Paul Noble        | Johnny Walker Red                             |
 |Friday 5th June 2015   | Cyril George      | Talisker Port Ruighe                          | 
+|Friday 12th June 2015  |                   |                                               |
