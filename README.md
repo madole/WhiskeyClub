@@ -17,11 +17,11 @@
 |Friday 12th June 2015  | Andrew McDowell   | Hakushu Single Malt Aged 12 Years             | 
 |Friday 19th June 2015  | James Smith       | Bruichladdich Octomore 6.1                    | 
 |Friday 26th June 2015  | Bryce Levido      |                                               |
-|Friday 3th July 2015   | Matt Taylor       |                                               |
+|Friday 3rd July 2015   | Matt Taylor       |                                               |
 |Friday 10th July 2015  | Chris Turner      |                                               |
 |Friday 17th July 2015  | Kartik Lad        |                                               |
 |Friday 24th July 2015  | Liam Dixon        |                                               |
-|Friday 31th July 2015  | Kunaal Ramchandani|                                               |    
+|Friday 31st July 2015  | Kunaal Ramchandani|                                               |    
 |Friday 7th August 2015 | Christian Rich    |                                               |   
 |Friday 14th August 2015| Barney Bishop     |                                               |  
 |Friday 21st August 2015| Peter Uy          |                                               | 
