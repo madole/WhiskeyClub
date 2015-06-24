@@ -18,7 +18,7 @@
 |Friday 19th June 2015  | James Smith       | Bruichladdich Octomore 6.1                    | 
 |Friday 26th June 2015  | Bryce Levido      |                                               |
 |Friday 3rd July 2015   | Matt Taylor       |                                               |
-|Friday 10th July 2015  | Chris Turner      |                                               |
+|Friday 10th July 2015  | Cyril George      |                                               |
 |Friday 17th July 2015  | Kartik Lad        |                                               |
 |Friday 24th July 2015  | Liam Dixon        |                                               |
 |Friday 31st July 2015  | Kunaal Ramchandani|                                               |    
@@ -26,4 +26,5 @@
 |Friday 14th August 2015| Barney Bishop     |                                               |  
 |Friday 21st August 2015| Peter Uy          |                                               | 
 |Friday 28th August 2015| Paul Noble        |                                               |
-|Friday 4th Sept 2015   | Cyril George      |                                               | 
+|Friday 4th Sept 2015   | Chris Turner      |                                               | 
+|Friday 11th March 2015 | Dan Serrano       |                                               |
