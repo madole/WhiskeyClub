@@ -18,7 +18,7 @@
 |Friday 19th June 2015  | James Smith       | Bruichladdich Octomore 6.1                    | 
 |Friday 3rd June 2015   | Bryce Levido      | Glen Devron 16 Years                          |
 |Friday 10th July 2015  | Matt Taylor       | Maccallan Sienna                              |
-|Friday 17th July 2015  | Cyril George      |                                               |
+|Friday 17th July 2015  | Cyril George      | Highland Park 12 Years Old                    |
 |Friday 24th July 2015  | Kartik Lad        |                                               |
 |Friday 31st July 2015  | Liam Dixon        |                                               |
 |Friday 7th August 2015 | Kunaal Ramchandani|                                               |    
