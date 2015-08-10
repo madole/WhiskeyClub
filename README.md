@@ -27,5 +27,5 @@
 |Friday 28th August 2015| Peter Uy          |                                               | 
 |Friday 4th Sept 2015   | Paul Noble        |                                               |
 |Friday 11th Sept 2015  | Chris Turner      |                                               | 
-|Friday 18th Sept 2015  | Dan Serrano       |                                               |
+|Friday 18th Sept 2015  | Dan Serrano       | Balvenie DoubleWood 17 Year Old               |
 |Friday 25th Sept 2015  | Marley Venerosa   |                                               |
