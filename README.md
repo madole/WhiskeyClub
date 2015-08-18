@@ -20,10 +20,9 @@
 |Friday 10th July 2015  | Matt Taylor       | Maccallan Sienna                              |
 |Friday 17th July 2015  | Cyril George      | Highland Park 12 Years Old                    |
 |Friday 24th July 2015  | Kartik Lad        | Aberlour A'bunadh                             |
-|Friday 31st July 2015  | Liam Dixon        |                                               |
-|Friday 7th August 2015 | Kunaal Ramchandani|                                               |    
-|Friday 14th August 2015| Chris Pit         |                                               |   
-|Friday 21st August 2015| Barney Bishop     |                                               |  
+|Friday 7th August 2015 | Liam Dixon        | Laphroaig An Cuan Mor                         |
+|Friday 14th August 2015| Chris Pitt        | Dimple                                        |    
+|Friday 21st August 2015| Kunaal Ramchandani|                                               |   
 |Friday 28th August 2015| Peter Uy          |                                               | 
 |Friday 4th Sept 2015   | Paul Noble        |                                               |
 |Friday 11th Sept 2015  | Chris Turner      |                                               | 
