@@ -28,3 +28,4 @@
 |Friday 11th Sept 2015  | Chris Turner      |                                               | 
 |Friday 18th Sept 2015  | Dan Serrano       | Balvenie DoubleWood 17 Year Old               |
 |Friday 25th Sept 2015  | Marley Venerosa   |                                               |
+|Friday 2nd Oct 2015    | Kartik Lad        |   SPECIAL EDITION: LEAVING US WHISKEY PARTY   |
