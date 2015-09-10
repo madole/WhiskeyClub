@@ -25,7 +25,11 @@
 |Friday 21st August 2015| Kunaal Ramchandani|                                               |   
 |Friday 28th August 2015| Peter Uy          |                                               | 
 |Friday 4th Sept 2015   | Paul Noble        |                                               |
-|Friday 11th Sept 2015  | Chris Turner      |                                               | 
-|Friday 18th Sept 2015  | Dan Serrano       | Balvenie DoubleWood 17 Year Old               |
+|Friday 11th Sept 2015  | Dan Serrano       | Macallan Whisky Maker's Edition               | 
+|Friday 18th Sept 2015  | Chris Turner      |                                               |
 |Friday 25th Sept 2015  | Marley Venerosa   |                                               |
 |Friday 2nd Oct 2015    | Kartik Lad        |   SPECIAL EDITION: LEAVING US WHISKEY PARTY   |
+
+
+Suggestions if you don't know what to get:
+Dan: Balvenie DoubleWood 17 Year Old  (tried this in the US and loved it, but couldn't find it in time for this next round)
