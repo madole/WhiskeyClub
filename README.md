@@ -22,13 +22,13 @@
 |Friday 24th July 2015  | Kartik Lad        | Aberlour A'bunadh                             |
 |Friday 7th August 2015 | Liam Dixon        | Laphroaig An Cuan Mor                         |
 |Friday 14th August 2015| Chris Pitt        | Dimple                                        |    
-|Friday 21st August 2015| Kunaal Ramchandani|                                               |   
-|Friday 28th August 2015| Peter Uy          |                                               | 
-|Friday 4th Sept 2015   | Paul Noble        |                                               |
+|Friday 21st August 2015| Kunaal Ramchandani| Hibiki 12 Years                               |   
+|Friday 28th August 2015| Peter Uy          | Glenfarclas 21 Years                          | 
+|Friday 4th Sept 2015   | Paul Noble        | The Balvenie Caribbean Cask                   |
 |Friday 11th Sept 2015  | Dan Serrano       | Macallan Whisky Maker's Edition               | 
-|Friday 18th Sept 2015  | Chris Turner      |                                               |
-|Friday 25th Sept 2015  | Marley Venerosa   |                                               |
-|Friday 2nd Oct 2015    | Kartik Lad        |   SPECIAL EDITION: LEAVING US WHISKEY PARTY   |
+|Friday 18th Sept 2015  | Chris Turner      | The Dalmore 15 Years                          |
+|Friday 25th Sept 2015  | Marley Venerosa   | Hellyers Road Distillery - Peated             |
+|Friday 2nd Oct 2015    | Kartik Lad        | The Glenlivet 18 Years                        |
 |Friday 9th Oct 2015    | Andrew McDowell   |                                               | 
 |Friday 16th Oct 2015   | James Smith       |                                               | 
 |Friday 23rd Oct 2015   | Bryce Levido      |                                               |
