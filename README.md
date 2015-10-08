@@ -29,6 +29,19 @@
 |Friday 18th Sept 2015  | Chris Turner      |                                               |
 |Friday 25th Sept 2015  | Marley Venerosa   |                                               |
 |Friday 2nd Oct 2015    | Kartik Lad        |   SPECIAL EDITION: LEAVING US WHISKEY PARTY   |
+|Friday 9th Oct 2015    | Andrew McDowell   |                                               | 
+|Friday 16th Oct 2015   | James Smith       |                                               | 
+|Friday 23rd Oct 2015   | Bryce Levido      |                                               |
+|Friday 30th Oct 2015   | Matt Taylor       |                                               |
+|Friday 6th Nov 2015    | Cyril George      |                                               |
+|Friday 13th Nov 2015   | Kartik Lad        |                                               |
+|Friday 20th Nov 2015   | Liam Dixon        |                                               |
+|Friday 27th Nov 2015   | Kunaal Ramchandani|                                               |   
+|Friday 28th Dec 2015   | Peter Uy          |                                               | 
+|Friday 4th Dec 2015    | Paul Noble        |                                               |
+|Friday 11th Dec 2015   | Dan Serrano       |                                               | 
+|Friday 18th Dec 2015   | Chris Turner      |                                               |
+|Friday 25th Dec 2015   | Marley Venerosa   |
 
 
 Suggestions if you don't know what to get:
