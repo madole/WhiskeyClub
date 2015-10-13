@@ -11,11 +11,11 @@
 |Friday 24th April 2015 | Kunaal Ramchandani| Ardbeg 10 Year Old Scotch Whisky              |    
 |Friday 1st May 2015    | Christian Rich    | Bunnahabhain  12 Year Old                     |   
 |Friday 15th May 2015   | Barney Bishop     | Glenmorangie 18 Year Old Extremely Rare       |  
-|Friday 22nd May 2015   | Peter Uy          | Yamazaki 12 Year Old                          | 
+|Friday 22nd May 2015   | Peter Uy          | Yamazaki 12 Year Old                          |
 |Friday 29th May 2015   | Paul Noble        | Johnny Walker Red                             |
-|Friday 5th June 2015   | Cyril George      | Talisker Port Ruighe                          | 
-|Friday 12th June 2015  | Andrew McDowell   | Hakushu Single Malt Aged 12 Years             | 
-|Friday 19th June 2015  | James Smith       | Bruichladdich Octomore 6.1                    | 
+|Friday 5th June 2015   | Cyril George      | Talisker Port Ruighe                          |
+|Friday 12th June 2015  | Andrew McDowell   | Hakushu Single Malt Aged 12 Years             |
+|Friday 19th June 2015  | James Smith       | Bruichladdich Octomore 6.1                    |
 |Friday 3rd June 2015   | Bryce Levido      | Glen Devron 16 Years                          |
 |Friday 10th July 2015  | Matt Taylor       | Maccallan Sienna                              |
 |Friday 17th July 2015  | Cyril George      | Highland Park 12 Years Old                    |
@@ -23,23 +23,23 @@
 |Friday 7th August 2015 | Liam Dixon        | Laphroaig An Cuan Mor                         |
 |Friday 14th August 2015| Chris Pitt        | Dimple                                        |    
 |Friday 21st August 2015| Kunaal Ramchandani| Hibiki 12 Years                               |   
-|Friday 28th August 2015| Peter Uy          | Glenfarclas 21 Years                          | 
+|Friday 28th August 2015| Peter Uy          | Glenfarclas 21 Years                          |
 |Friday 4th Sept 2015   | Paul Noble        | The Balvenie Caribbean Cask                   |
-|Friday 11th Sept 2015  | Dan Serrano       | Macallan Whisky Maker's Edition               | 
+|Friday 11th Sept 2015  | Dan Serrano       | Macallan Whisky Maker's Edition               |
 |Friday 18th Sept 2015  | Chris Turner      | The Dalmore 15 Years                          |
 |Friday 25th Sept 2015  | Marley Venerosa   | Hellyers Road Distillery - Peated             |
 |Friday 2nd Oct 2015    | Kartik Lad        | The Glenlivet 18 Years                        |
-|Friday 9th Oct 2015    | Andrew McDowell   |                                               | 
-|Friday 16th Oct 2015   | James Smith       |                                               | 
+|Friday 9th Oct 2015    | Andrew McDowell   |                                               |
+|Friday 16th Oct 2015   | James Smith       | Royal Salute 21 Years - Emerald               | 
 |Friday 23rd Oct 2015   | Bryce Levido      |                                               |
 |Friday 30th Oct 2015   | Matt Taylor       |                                               |
 |Friday 6th Nov 2015    | Cyril George      |                                               |
 |Friday 13th Nov 2015   | Kartik Lad        |                                               |
 |Friday 20th Nov 2015   | Liam Dixon        |                                               |
 |Friday 27th Nov 2015   | Kunaal Ramchandani|                                               |   
-|Friday 28th Dec 2015   | Peter Uy          |                                               | 
+|Friday 28th Dec 2015   | Peter Uy          |                                               |
 |Friday 4th Dec 2015    | Paul Noble        |                                               |
-|Friday 11th Dec 2015   | Dan Serrano       |                                               | 
+|Friday 11th Dec 2015   | Dan Serrano       |                                               |
 |Friday 18th Dec 2015   | Chris Turner      |                                               |
 |Friday 25th Dec 2015   | Marley Venerosa   |
 
