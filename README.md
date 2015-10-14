@@ -29,9 +29,9 @@
 |Friday 18th Sept 2015  | Chris Turner      | The Dalmore 15 Years                          |
 |Friday 25th Sept 2015  | Marley Venerosa   | Hellyers Road Distillery - Peated             |
 |Friday 2nd Oct 2015    | Kartik Lad        | The Glenlivet 18 Years                        |
-|Friday 9th Oct 2015    | Andrew McDowell   |                                               |
+|Friday 9th Oct 2015    | Andrew McDowell   | Ballantine 17 Year old blend                  |
 |Friday 16th Oct 2015   | James Smith       | Royal Salute 21 Years - Emerald               | 
-|Friday 23rd Oct 2015   | Bryce Levido      |                                               |
+|Friday 23rd Oct 2015   | Bryce Levido      | New World Projects Port Double Cask           |
 |Friday 30th Oct 2015   | Matt Taylor       |                                               |
 |Friday 6th Nov 2015    | Cyril George      |                                               |
 |Friday 13th Nov 2015   | Kartik Lad        |                                               |
