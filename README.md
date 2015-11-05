@@ -32,9 +32,9 @@
 |Friday 9th Oct 2015    | Andrew McDowell   | Ballantine 17 Year old blend                  |
 |Friday 23rd Oct 2015   | James Smith       | Royal Salute 21 Years - Emerald               | 
 |Friday 30th Oct 2015   | Bryce Levido      | New World Projects Port Double Cask           |
-|Friday 6th Nov 2015    | Cyril George      |                                               |
+|Friday 6th Nov 2015    | Kunaal Ramchandani|                                               |
 | Friday 13th Nov 2015  | Liam Dixon        |                                               |
-| Friday 20th Nov 2015  | Kunaal Ramchandani|                                               |
+| Friday 20th Nov 2015  | Cyril George      |                                               |
 | Friday 27th Nov 2015  | Peter Uy          |                                               |
 | Friday 28th Dec 2015  | Paul Noble        |                                               |   
 | Friday 4th Dec 2015   | Dan Serrano       |                                               |
