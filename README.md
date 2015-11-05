@@ -32,16 +32,16 @@
 |Friday 9th Oct 2015    | Andrew McDowell   | Ballantine 17 Year old blend                  |
 |Friday 23rd Oct 2015   | James Smith       | Royal Salute 21 Years - Emerald               | 
 |Friday 30th Oct 2015   | Bryce Levido      | New World Projects Port Double Cask           |
-|Friday 6th Nov 2015    | Matt Taylor       |                                               |
-| Friday 13th Nov 2015  | Cyril George      |                                               |
-| Friday 20th Nov 2015  | Kartik Lad        |                                               |
-| Friday 27th Nov 2015  | Liam Dixon        |                                               |
-| Friday 28th Dec 2015  | Kunaal Ramchandani|                                               |   
-| Friday 4th Dec 2015   | Peter Uy          |                                               |
-| Friday 11th Dec 2015  | Paul Noble        |                                               |
-| Friday 18th Dec 2015  | Dan Serrano       |                                               |
-| Friday 8th Jan 2015   | Chris Turner      |                                               |
-| Friday 15th Jan 2015  | Marley Venerosa   |
+|Friday 6th Nov 2015    | Cyril George      |                                               |
+| Friday 13th Nov 2015  | Liam Dixon        |                                               |
+| Friday 20th Nov 2015  | Kunaal Ramchandani|                                               |
+| Friday 27th Nov 2015  | Peter Uy          |                                               |
+| Friday 28th Dec 2015  | Paul Noble        |                                               |   
+| Friday 4th Dec 2015   | Dan Serrano       |                                               |
+| Friday 11th Dec 2015  | Chris Turner      |                                               |
+| Friday 18th Dec 2015  | Marley Venerosa   |                                               |
+| Friday 8th Jan 2015   |                   |                                               |
+| Friday 15th Jan 2015  |                   |                                               |
 
 
 Suggestions if you don't know what to get:
