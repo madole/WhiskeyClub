@@ -34,14 +34,14 @@
 |Friday 30th Oct 2015   | Bryce Levido      | New World Projects Port Double Cask           |
 |Friday 6th Nov 2015    | Kunaal Ramchandani|                                               |
 | Friday 13th Nov 2015  | Liam Dixon        |                                               |
-| Friday 20th Nov 2015  | Cyril George      |                                               |
+| Friday 20th Nov 2015  | Jack Brown        |                                               |
 | Friday 27th Nov 2015  | Peter Uy          |                                               |
 | Friday 28th Dec 2015  | Paul Noble        |                                               |   
-| Friday 4th Dec 2015   | Dan Serrano       |                                               |
+| Friday 4th Dec 2015   | Cyril George      |                                               |
 | Friday 11th Dec 2015  | **A YEAR OF WHISKEY SPECIAL**                                     |
 | Friday 18th Dec 2015  | Chris Turner      |                                               |
 | Friday 8th Jan 2015   | Marley Venerosa   |                                               |
-| Friday 15th Jan 2015  |                   |                                               |
+| Friday 15th Jan 2015  | Dan Serrano       |                                               |
 
 
 Suggestions if you don't know what to get:
