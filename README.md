@@ -33,9 +33,9 @@
 |Friday 23rd Oct 2015   | James Smith       | Royal Salute 21 Years - Emerald               | 
 |Friday 30th Oct 2015   | Bryce Levido      | New World Projects Port Double Cask           |
 |Friday 6th Nov 2015    | Kunaal Ramchandani| Bushmills 10 Years Old                        |
-| Friday 13th Nov 2015  | Liam Dixon        |                                               |
-| Friday 20th Nov 2015  | Jack Brown        |                                               |
-| Friday 27th Nov 2015  | Peter Uy          |                                               |
+| Friday 13th Nov 2015  | Jack Brown        |                                               |
+| Friday 20th Nov 2015  | Peter Uy          |                                               |
+| Friday 27th Nov 2015  | Liam Dixon        |                                               |
 | Friday 28th Dec 2015  | Paul Noble        |                                               |   
 | Friday 4th Dec 2015   | Cyril George      |                                               |
 | Friday 11th Dec 2015  | **A YEAR OF WHISKEY SPECIAL**                                     |
